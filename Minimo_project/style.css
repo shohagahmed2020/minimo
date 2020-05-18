@@ -1,0 +1,78 @@
+body {
+
+color: #626262;
+    font-family: 'Playfair Display', serif;
+}
+.head-section .mini {
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 27.8px;
+    text-decoration: none;
+}
+
+.head-section ul li {
+    padding: 0 30.7px;
+}
+
+.photo .row {
+
+}
+.photo .pho {
+    font-size: 12.7px;
+}
+
+.photo .lorem {
+    font-size: 14px;
+}
+
+.photo .perfect {}
+
+.photo .leave {
+    font-size: 12.7px;
+}
+
+.mus .lor {
+    font-size: 14px;
+}
+
+.signUp {
+    background: #f0f0f0;
+}
+.signUp h2 {
+    font-size: 28.9px;
+    margin-bottom: 71px;
+}
+
+.signUp form {
+    border: 0;
+    border-bottom: 1px solid black;
+    border-left: 1px solid #f0f0f0;
+    border-right: 1px solid #f0f0f0;
+    border-top: 0;
+
+
+}
+
+.signUp form input[type="text"] {
+    border: 0;
+    background: #f0f0f0;
+}
+
+.mus input {
+    border: 1px solid  #626262;
+    padding:15px 22px;
+    color: #626262;
+}
+
+.mus input:hover {
+    background: white;
+}
+
+
+.footer-part .social i {
+    padding:0 5px;
+}
+/*
+ font-family: 'Inconsolata', monospace;
+*/
